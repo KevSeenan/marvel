@@ -51,3 +51,4 @@ INSERT INTO movies (title, year, show_time) VALUES ('Thor: Ragnarok', 2017, '22:
 INSERT INTO movies (title, year, show_time) VALUES ('Black Panther', 2018, '21:00');
 
 -- SELECT * FROM movies
+SELECT name FROM people
